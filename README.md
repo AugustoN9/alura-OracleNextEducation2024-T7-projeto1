@@ -1,0 +1,1 @@
+# alura-OracleNextEducation2024-T7-projeto1
