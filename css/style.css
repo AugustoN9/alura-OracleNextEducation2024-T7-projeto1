@@ -138,7 +138,7 @@ body{
         gap: 20px;
     }
 
-    .cabecalho__menu__links_navegacao {
+    .cabecalho__menu__links__navegacao {
         font-size: .5rem;
     }
 
@@ -152,11 +152,8 @@ body{
     }
 
     .apresentacao__imagem {
-        width: 48%;
+        width: 98%;
         padding: 0 .5rem;
     }
 
-    .apresentacao__links__navegacao{
-        font-size: 1rem;
-    }
 }
