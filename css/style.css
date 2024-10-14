@@ -140,7 +140,7 @@ body{
 
     .cabecalho__menu__links__navegacao {
         font-size: .3rem;
-        font-weight: 100;
+        font-family: var(--fonte-principal);
     }
 
     .apresentacao {
